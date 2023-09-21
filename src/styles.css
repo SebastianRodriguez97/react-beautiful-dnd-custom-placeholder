@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.placeholder {
+  position: absolute;
+  background-color: white;
+  border-radius: 3px;
+  border: dashed 1px blue;
+  background-color: white;
+}
